@@ -2,7 +2,10 @@
 body {
     height: 100%;
 }
-
+body {
+    background-image: url("indir.jpg");
+    background-color: #cccccc;
+}
 body {
     display: -ms-flexbox;
     display: flex;
